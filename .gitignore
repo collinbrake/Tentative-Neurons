@@ -1,0 +1,5 @@
+# Don't upload training data
+2020_data_mnist
+
+# Ignore manual saves for jupyter notebooks
+.ipynb_checkpoints/*.ipynb
