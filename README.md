@@ -1,2 +1,2 @@
 # Tentative Neurons
-This repository holds my exploratory and educational deep learning projects.
+This repository holds my exploratory and educational machine learning projects.
